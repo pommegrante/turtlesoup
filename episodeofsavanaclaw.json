@@ -1,6 +1,6 @@
 {
   "title": "Disney Twisted Wonderland - The Comic - ~Episode of Savanaclaw~",
-  "description": "",
+  "description": "Hirasaka Yuuka, a high-school student who lived an average life, and a black carriage that suddenly appeared in front of her one day on her way home from club. After seeing it and losing consciousness, she awoke in another world called \"Twisted Wonderland\"...?",
   "artist": "Oda Suzuka",
   "author": "Oda Suzuka",
   "cover": "https://mangadex.org/covers/3e7d016d-43c8-4270-b83e-cbbe9d890505/c6d68212-c2b8-49fb-82c8-cd4b7d77b216.png",
@@ -11,6 +11,14 @@
       "last_updated": "1672591025",
       "groups": {
         "turtlesoup scanlations": "/proxy/api/imgur/chapter/nA7AhKV"
+      }
+    },
+    "2": {
+      "title": "Conspiracy Chasers!",
+      "volume": "1",
+      "last_updated": "1677720773",
+      "groups": {
+        "turtlesoup scanlations": "/proxy/api/imgur/chapter/6czg8yY"
       }
     }
   }
