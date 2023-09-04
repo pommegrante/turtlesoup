@@ -1,0 +1,17 @@
+{
+  "title": "\tDisney Twisted Wonderland - The Comic - ~Episode of Octavinelle~ ",
+  "description": "",
+  "artist": "Koono Sumire, Toboso Yana, Wakana Hazuki",
+  "author": "Koono Sumire",
+  "cover": "https://i.imgur.com/cdCz25z.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1693793936",
+      "groups": {
+        "turtlesoup scans": "/proxy/api/imgur/chapter/49fZeUv"
+      }
+    }
+  }
+}
