@@ -4,5 +4,14 @@
   "artist": "Koono Sumire, Wakana Hazuki",
   "author": "Toboso Yana",
   "cover": "https://i.imgur.com/cdCz25z.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Effortless Study!",
+      "volume": "1",
+      "last_updated": "1693794396",
+      "groups": {
+        "turtlesoup scanlations": "/proxy/api/imgur/chapter/49fZeUv"
+      }
+    }
+  }
 }
